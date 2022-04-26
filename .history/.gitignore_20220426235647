@@ -1,0 +1,9 @@
+/build/
+# artifacts of the VSCode plugin
+/reach
+/.index.rsh.temp
+/.vscode
+/algoMAW.patch
+/algoWC.patch
+/cfx.patch
+/cypress.
